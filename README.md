@@ -23,34 +23,65 @@
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/3114/3114738.png" alt="Man Technologist" width="25" height="25" /> About Me
 
 I'm a 7th semester student at Politeknik Negeri Malang, currently interning as a Software Engineer at PT Petrokimia Gresik. I'm passionate about building efficient systems and creating meaningful user experiences.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> My Tech Journey
 
-```typescript
-const irfan = {
-  education: "D-IV Informatics Engineering @ Politeknik Negeri Malang",
-  experience: "Software Engineer Intern @ PT Petrokimia Gresik",
-  interests: ["Web Development", "Mobile Apps", "DevOps", "API Gateway", "SSO Solutions"],
-  technicalSkills: {
-    frontend: ["Vue.js", "React.js", "Bootstrap", "Tailwind CSS", "Livewire"],
-    backend: ["Laravel", "PHP", "Next.js", "REST API"],
-    database: ["MySQL", "PostgreSQL"],
-    devOps: ["Docker", "Portainer", "Nginx Proxy Manager", "GitHub Actions"],
-    tools: ["Figma", "Postman", "Git", "ERD Design"],
-    other: ["Keycloak SSO", "Kong API Gateway", "Machine Learning", "Computer Vision"]
-  },
-  currentlyLearning: ["Kubernetes", "Microservices Architecture", "Advanced DevOps"],
-  funFact: "I love optimization challenges — making systems faster and more efficient!"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎓 Education:</b></td>
+      <td>D-IV Informatics Engineering @ Politeknik Negeri Malang</td>
+    </tr>
+    <tr>
+      <td><b>💼 Experience:</b></td>
+      <td>Software Engineer Intern @ PT Petrokimia Gresik</td>
+    </tr>
+    <tr>
+      <td><b>🔍 Interests:</b></td>
+      <td>Web Development, Mobile Apps, DevOps, API Gateway, SSO Solutions</td>
+    </tr>
+    <tr>
+      <td><b>👨‍💻 Frontend:</b></td>
+      <td>Vue.js, React.js, Bootstrap, Tailwind CSS, Livewire</td>
+    </tr>
+    <tr>
+      <td><b>⚙️ Backend:</b></td>
+      <td>Laravel, PHP, Next.js, REST API</td>
+    </tr>
+    <tr>
+      <td><b>🗃️ Database:</b></td>
+      <td>MySQL, PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><b>🚀 DevOps:</b></td>
+      <td>Docker, Portainer, Nginx Proxy Manager, GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Tools:</b></td>
+      <td>Figma, Postman, Git, ERD Design</td>
+    </tr>
+    <tr>
+      <td><b>🧩 Other:</b></td>
+      <td>Keycloak SSO, Kong API Gateway, Machine Learning, Computer Vision</td>
+    </tr>
+    <tr>
+      <td><b>📚 Learning:</b></td>
+      <td>Kubernetes, Microservices Architecture, Advanced DevOps</td>
+    </tr>
+    <tr>
+      <td><b>⚡ Fun Fact:</b></td>
+      <td>I love optimization challenges — making systems faster and more efficient!</td>
+    </tr>
+  </table>
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Projects Showcase
+## <img src="https://cdn-icons-png.flaticon.com/512/4341/4341025.png" alt="Rocket" width="25" height="25" /> Projects Showcase
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="20" height="20" /> <b>SSO & Authentication Systems</b></summary>
+<summary><img src="https://cdn-icons-png.flaticon.com/512/7780/7780961.png" alt="Locked with Key" width="20" height="20" /> <b>SSO & Authentication Systems</b></summary>
 <br>
 ➡️ <b>Single Sign-On (SSO) System</b><br>
 Implemented Keycloak SSO with custom login UI, MFA solutions, and passwordless biometric authentication.<br>
@@ -58,7 +89,7 @@ Implemented Keycloak SSO with custom login UI, MFA solutions, and passwordless b
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20" height="20" /> <b>API & Integration Solutions</b></summary>
+<summary><img src="https://cdn-icons-png.flaticon.com/512/1231/1231223.png" alt="Globe with Meridians" width="20" height="20" /> <b>API & Integration Solutions</b></summary>
 <br>
 ➡️ <b>API Gateway Implementation</b><br>
 Built centralized API management using Kong and Konga with data masking plugin development.<br>
@@ -70,7 +101,7 @@ Integrated APIs from Keycloak and internal company systems for centralized user 
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="20" height="20" /> <b>AI & ML Applications</b></summary>
+<summary><img src="https://cdn-icons-png.flaticon.com/512/1693/1693746.png" alt="Brain" width="20" height="20" /> <b>AI & ML Applications</b></summary>
 <br>
 ➡️ <b>TOMATIN</b><br>
 Mobile and web application with computer vision for tomato leaf disease identification and monitoring.<br>
@@ -78,7 +109,7 @@ Mobile and web application with computer vision for tomato leaf disease identifi
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="20" height="20" /> <b>Web & Mobile Apps</b></summary>
+<summary><img src="https://cdn-icons-png.flaticon.com/512/3097/3097048.png" alt="Mobile Phone" width="20" height="20" /> <b>Web & Mobile Apps</b></summary>
 <br>
 ➡️ <b>MARSOSE</b><br>
 Citizen complaint reporting app with decision support system for prioritization.<br>
@@ -93,7 +124,7 @@ Digital system for streamlining heavy equipment ordering with tracking features.
 <i>Tech Stack: Vue.js, Laravel, MySQL</i>
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
+## <img src="https://cdn-icons-png.flaticon.com/512/7641/7641727.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,vue,react,flutter,tailwind,docker,mysql,github" />
@@ -103,7 +134,7 @@ Digital system for streamlining heavy equipment ordering with tracking features.
   <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,figma,git,nginx" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/1450/1450332.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -120,12 +151,12 @@ Digital system for streamlining heavy equipment ordering with tracking features.
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Certifications
+## <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" alt="Trophy" width="25" height="25" /> Certifications
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" alt="Certificate" width="20" height="20" /> The Complete 2024 Web Development Bootcamp – Udemy
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" alt="Certificate" width="20" height="20" /> UI/UX Design Mastery – Skilvul
+- <img src="https://cdn-icons-png.flaticon.com/512/2091/2091401.png" alt="Certificate" width="20" height="20" /> The Complete 2024 Web Development Bootcamp – Udemy
+- <img src="https://cdn-icons-png.flaticon.com/512/2091/2091401.png" alt="Certificate" width="20" height="20" /> UI/UX Design Mastery – Skilvul
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
+## <img src="https://cdn-icons-png.flaticon.com/512/4406/4406124.png" alt="Handshake" width="25" height="25" /> Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-irfan-nur-hakim/">
@@ -151,12 +182,9 @@ Digital system for streamlining heavy equipment ordering with tracking features.
 
 ---
 
+<!-- Menggunakan snake animation yang valid -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/irfannhkm/irfannhkm/blob/output/snake.svg" alt="Snake animation">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/assets/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
 
 <p align="center">
