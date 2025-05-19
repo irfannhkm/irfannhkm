@@ -1,21 +1,37 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Muhammad Irfan Nur Hakim!
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hello, I'm Muhammad Irfan Nur Hakim!
+
+<p align="center">
+  <img src="minh_logo.png" alt="MINH Logo" width="150px" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=2E9EFF&center=true&random=false&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;Software+Engineer;SSO+%26+API+Gateway+Specialist;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-irfan-nur-hakim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Irfan-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:muhammadirfannh36@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muhammadirfannh36%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.minh.my.id"><img alt="Website" src="https://img.shields.io/badge/Website-www.minh.my.id-green?style=flat-square&logo=google-chrome"></a>
-  <a href="https://github.com/irfannhkm"><img alt="GitHub" src="https://img.shields.io/github/followers/irfannhkm?label=Followers&style=social"></a>
+  <a href="https://www.linkedin.com/in/muhammad-irfan-nur-hakim/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:muhammadirfannh36@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.minh.my.id">
+    <img alt="Website" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://github.com/irfannhkm">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
-## 💫 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me
 
-```javascript
+I'm a 7th semester student at Politeknik Negeri Malang, currently interning as a Software Engineer at PT Petrokimia Gresik. I'm passionate about building efficient systems and creating meaningful user experiences.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> My Tech Journey
+
+```typescript
 const irfan = {
-  education: "D-IV Informatics Engineering @ Politeknik Negeri Malang (7th semester)",
+  education: "D-IV Informatics Engineering @ Politeknik Negeri Malang",
   experience: "Software Engineer Intern @ PT Petrokimia Gresik",
   interests: ["Web Development", "Mobile Apps", "DevOps", "API Gateway", "SSO Solutions"],
   technicalSkills: {
@@ -31,10 +47,10 @@ const irfan = {
 };
 ```
 
-## 🚀 Projects Showcase
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Projects Showcase
 
 <details>
-<summary><b>🔐 SSO & Authentication Systems</b></summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="20" height="20" /> <b>SSO & Authentication Systems</b></summary>
 <br>
 ➡️ <b>Single Sign-On (SSO) System</b><br>
 Implemented Keycloak SSO with custom login UI, MFA solutions, and passwordless biometric authentication.<br>
@@ -42,7 +58,7 @@ Implemented Keycloak SSO with custom login UI, MFA solutions, and passwordless b
 </details>
 
 <details>
-<summary><b>🌐 API & Integration Solutions</b></summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20" height="20" /> <b>API & Integration Solutions</b></summary>
 <br>
 ➡️ <b>API Gateway Implementation</b><br>
 Built centralized API management using Kong and Konga with data masking plugin development.<br>
@@ -54,7 +70,7 @@ Integrated APIs from Keycloak and internal company systems for centralized user 
 </details>
 
 <details>
-<summary><b>🧠 AI & ML Applications</b></summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="20" height="20" /> <b>AI & ML Applications</b></summary>
 <br>
 ➡️ <b>TOMATIN</b><br>
 Mobile and web application with computer vision for tomato leaf disease identification and monitoring.<br>
@@ -62,7 +78,7 @@ Mobile and web application with computer vision for tomato leaf disease identifi
 </details>
 
 <details>
-<summary><b>📱 Web & Mobile Apps</b></summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="20" height="20" /> <b>Web & Mobile Apps</b></summary>
 <br>
 ➡️ <b>MARSOSE</b><br>
 Citizen complaint reporting app with decision support system for prioritization.<br>
@@ -77,42 +93,55 @@ Digital system for streamlining heavy equipment ordering with tracking features.
 <i>Tech Stack: Vue.js, Laravel, MySQL</i>
 </details>
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,react,flutter,tailwind,docker,mysql,github" />
 </p>
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfannhkm&show_icons=true&theme=radical" alt="irfannhkm's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfannhkm&theme=radical" alt="irfannhkm's GitHub Streak" width="48%" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,figma,git,nginx" />
 </p>
 
-## 🏆 Certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
 
-- The Complete 2024 Web Development Bootcamp – Udemy
-- UI/UX Design Mastery – Skilvul
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=irfannhkm&show_icons=true&theme=tokyonight" alt="irfannhkm's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfannhkm&theme=tokyonight" alt="irfannhkm's GitHub Streak" width="48%" />
+  </a>
+</p>
 
-## 🤝 Connect With Me
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfannhkm&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Certifications
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" alt="Certificate" width="20" height="20" /> The Complete 2024 Web Development Bootcamp – Udemy
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" alt="Certificate" width="20" height="20" /> UI/UX Design Mastery – Skilvul
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-irfan-nur-hakim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40">
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:muhammadirfannh36@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.minh.my.id">
-    <img src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white" height=25>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/irfannhkm">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" alt="GitHub" width="40" height="40">
   </a>
 </p>
 
@@ -121,6 +150,14 @@ Digital system for streamlining heavy equipment ordering with tracking features.
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irfannhkm/irfannhkm/blob/output/snake.svg" alt="Snake animation">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom">
