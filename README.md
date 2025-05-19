@@ -184,9 +184,6 @@ Digital system for streamlining heavy equipment ordering with tracking features.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/irfannhkm/irfannhkm/blob/output/snake.svg" alt="Snake animation">
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 <p align="center">
