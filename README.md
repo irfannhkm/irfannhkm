@@ -186,7 +186,6 @@ Digital system for streamlining heavy equipment ordering with tracking features.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/assets/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom">
 </p>
